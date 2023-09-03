@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding: 15px 50px;
+    color: white;
+    font-size: 35px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
